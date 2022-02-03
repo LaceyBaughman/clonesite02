@@ -1,0 +1,55 @@
+header {
+  background-color: white;
+  width: 1000px;
+  height: 100px;
+}
+
+.menu {
+    flex: 0 0 400px;
+  text-align: center;
+}
+
+img {
+  opacity: 0.5;
+}
+
+.img-background {
+  min-height: 100vh;
+  background-image: image(images/Veggies_01);
+  background-size: cover;
+}
+
+.text-background {
+  background-color: black;
+  height: 600px;
+}
+
+.text-center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 10px;
+  color: white;
+}
+
+.break {
+  background-color: white;
+  height: 10px;
+}
+
+.cat-image {
+  width: 25px;
+  height: 25px;
+}
+
+.footer-text {
+  font-size: 10px;
+  color: white;
+  text-align: left;
+}
+
+footer {
+  background-color: black;
+  width: 1000px;
+  height: 100px;
+}
